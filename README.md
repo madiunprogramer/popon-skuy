@@ -36,7 +36,7 @@ Install
 
     $ go get -v -u -d github.com/Psiphon-Labs/psiphon-tunnel-core/ConsoleClient
     $ cd ~/go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/ConsoleClient
-    $ go build -ldflags "-s -w" -o ~/go/src/github.com/popon-skuy/popon-skuy/psiphon-tunnel-core
+    $ go build -ldflags "-s -w" -o ~/go/src/github.com/popon-skuy/psiphon-tunnel-core
 
 
 Usage
