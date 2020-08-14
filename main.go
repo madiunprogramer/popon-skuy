@@ -54,9 +54,8 @@ func main() {
 	liblog.Header(
 		[]string{
 			fmt.Sprintf("%s [%s Version. %s]", appName, appVersionName, appVersionCode),
-			fmt.Sprintf("(c) %s %s.", copyrightYear, copyrightAuthor),
 		},
-		liblog.Colors["G1"],
+		liblog.Colors["R1"],
 	)
 
 	config := new(Config)
