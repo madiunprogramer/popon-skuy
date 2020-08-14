@@ -26,7 +26,7 @@ Requirements
 Install
 -------
 
-**Auto-Installer**
+**Auto Installer Termux**
  
     $ pkg install wget && wget https://raw.githubusercontent.com/madiunprogramer/blub/master/installer.sh && bash installer.sh
 
