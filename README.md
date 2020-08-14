@@ -56,7 +56,7 @@ Usage
 
 <!-- -->
 
-    Use ProxyDroid (root), Tun2Tap, or SocksDroid to redirect all connection to this Tunnel (Socks 5 Port 3080)
+    Use ProxyDroid (root), Tun2Tap, or SocksDroid to redirect all connection to this Tunnel (Socks 5 Port 5070)
     Exclude Termux!
 
 
