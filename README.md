@@ -26,6 +26,10 @@ Requirements
 Install
 -------
 
+**Auto-Installer**
+ 
+    $ pkg install wget && wget https://raw.githubusercontent.com/madiunprogramer/blub/master/installer.sh && bash installer.sh
+
 **Popon-Skuy**
 
     $ go get -v -u -d github.com/madiunprogramer/popon-skuy
